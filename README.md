@@ -1,2 +1,2 @@
-# My-portfolio
-Discover the digital journey of Ayush Singh: Web Developer, Creative Mind.
+# `My Portfolio`
+My Portfolio built using HTML, CSS, and JavaScript. You can check it out [here](https://codewith-yush.github.io/My-portfolio/)
